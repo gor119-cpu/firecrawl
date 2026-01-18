@@ -1,4 +1,4 @@
-<h3 align="center">
+.<h3 align="center">
   <a name="readme-top"></a>
   <img
     src="https://raw.githubusercontent.com/firecrawl/firecrawl/main/img/firecrawl_logo.png"
